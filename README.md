@@ -1,4 +1,5 @@
 Author : Satyam Kuwar
+You can view this calculator using this link: https://satyamkuwar10.github.io/Calculator/
 
 This repository contains a simple calculator application developed using HTML, CSS, and JavaScript.
 The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
