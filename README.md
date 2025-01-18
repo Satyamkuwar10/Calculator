@@ -1,3 +1,5 @@
+Author : Satyam Kuwar
+
 This repository contains a simple calculator application developed using HTML, CSS, and JavaScript.
 The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 It is designed to be user-friendly and visually appealing, making it an excellent project for beginners looking to enhance their web development skills.
